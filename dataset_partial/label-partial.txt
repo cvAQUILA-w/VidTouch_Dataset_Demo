@@ -1,0 +1,7 @@
+#number weave material usage otherinfo#
+00 oxford cotton laptopbag hard rough
+0306 twill polyesterpolyamide coat firm
+0309 plain polyesterpolyamide coat soft
+0410 plain viscosepolyesterspandex coat elastic
+0714 plain-knit polyamidespandex t-shirt elastic smooth dry
+0716 plain-knit cotton t-shirt soft smooth
